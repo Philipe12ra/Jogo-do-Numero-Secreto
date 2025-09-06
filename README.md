@@ -10,7 +10,7 @@ Projeto utilizado nos cursos de lógica de programação e aprendizados sobre Gi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## 👥 Time de Desenvolvimento
+## 👥 Responsável pelo Desenvolvimento
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/200294268?v=4" width=115><br><sub>Philipe Andrade</sub>](https://github.com/xXHachimanXx) |
 | :---: |
